@@ -10,4 +10,5 @@ links:
 - title: Rss
   url: /atom.xml
 - title: Main
-  url: https://adjoakittoe.com target="_blank"
+  url: https://adjoakittoe.com
+  target: _blank
