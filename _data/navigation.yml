@@ -3,13 +3,13 @@ links:
   url: /
 - title: About
   url: /about
-- title: Search
-  url: /search
-- title: Rss
-  url: /atom.xml
 - title: Social
   url: /social
+- title: Search
+  url: /search
 - title: Services
   url: https://seulful.com
-- title: Who is Adjoa Kittoe?
-  url: https://adjoakittoe.com
+- title: Main
+  url: [go](http://adjoakittoe.com){:target="_blank" rel="noopener"}
+ - title: Rss
+  url: /atom.xml
