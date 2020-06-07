@@ -1,20 +1,20 @@
 site: Sidey
-url: #yoururl
-title: Sidey
+url: http://akittoe.github.io/ #yoururl
+title: By AK
 description: Simple and minimalistic jekyll blogging theme.
-twitter:
-  username: #yourusername
+twitter: 
+  username: adjoakittoe #yourusername
   card: summary
-  creator: #yourusername
+  creator: adjoakittoe #yourusername
 author:
   twitter: #yourusername
   name: #yourusername
   avatar:
   email: #youremail
-  url: #yoururl
+  url: http://akittoe.github.io/ #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "http://akittoe.github.io/"
 
 highlighter: none
 
