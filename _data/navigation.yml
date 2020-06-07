@@ -7,17 +7,9 @@ links:
   url: /search
 - title: Rss
   url: /atom.xml
-- title: Twitter
-  url: https://twitter.com/adjoakittoe
-- title: LinkedIn
-  url: https://linkedin.com/in/adjoakittoe
-  - title: Instagram
-  url: https://instagram.com/seulful
-  - title: GitHub
-  url: https://GitHub.com/AKittoe
-  - title: Twitter
-  url: https://twitter.com/adjoakittoe
-  - title: Services
+- title: Social
+  url: /social
+- title: Services
   url: https://seulful.com
-  - title: Who is Adjoa Kittoe?
+- title: Who is Adjoa Kittoe?
   url: https://adjoakittoe.com
