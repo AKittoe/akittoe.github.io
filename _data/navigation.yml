@@ -7,8 +7,10 @@ links:
   url: /social
 - title: Search
   url: /search
-- title: Rss
-  url: /atom.xml
 - title: Main
   url: https://adjoakittoe.com
   target: _blank
+  class: first
+- title: Rss
+  url: /atom.xml
+
