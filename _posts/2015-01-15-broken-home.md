@@ -3,7 +3,7 @@ layout: post
 title: Broken Home - When Mom and Dad Was There
 description: This is a collection of short CSS snippets I thought might be useful for beginners
 summary: This is a collection of short CSS snippets I thought might be useful for beginners.
-tags: [css]
+tags: [personal]
 ---
 
 I was raised in a household with both parents present. Just like any other family, there were struggles such as economic hardships, the usual bickering between parent-child, sibling-sibling and parent-parent. Although I was raised in an urban community, the household was dominated by two Ghanaian-born immigrants.
