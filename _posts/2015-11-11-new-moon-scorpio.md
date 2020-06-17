@@ -1,9 +1,9 @@
 ---
 layout: post
-title: New Moon: Scorpio
-description: Scorpio portal, new Moon.
-summary: Scorpio portal, new Moon.
-tags: [astro]
+title: New Moon in Scorpio
+description: How to disable Jekyll's default syntax highlighter
+summary: How to disable Jekyll's default syntax highlighter.
+tags: [astro
 ---
 
 Tonight's moon will remind you that intensity can be a pleasant experience. As the Moon entered Scorpio at 12:47 PM at 19 degrees, we allow ourselves to accept the mysterious, intense feelings we tend to keep in the dark. Scorpio, a water sign ruled by the planet of power, Pluto, gives us the need of control and motivates us to go under the surface and tap into the subconscious. 
