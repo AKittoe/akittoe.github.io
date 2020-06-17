@@ -14,14 +14,14 @@ It is a liberating experience to have a website you can call your own, promoting
 In the past I have searched thoroughly for a hosting company that will not overcharge, yet still be reputable and reliable. Below are the steps in starting your website.
 
 The steps are very easy to creating your own website.
-	1. Establish a Platform, Domain + Hosting
-	2. Be Crafty + Design Your Blog
-	3. Selecting the Best Plugins For Your Site
-	4. Define Your Success
-	5. Create Compelling Content
-	6. Be Consistent With Your Site
-	7. Connect with the World
-	8. Grow With Your Blog
+1. Establish a Platform, Domain + Hosting
+2. Be Crafty + Design Your Blog
+3. Selecting the Best Plugins For Your Site
+4. Define Your Success
+5. Create Compelling Content
+6. Be Consistent With Your Site
+7. Connect with the World
+8. Grow With Your Blog
  
 ### Establish the Platform, Domain + Hosting
 First things first, find your host and domain. The host holds the server to your website, where you will be purchasing hosting for your website and its information and the domain is the web address (www.example.com/.org/.net/.us). I went to SiteGround and registered my domain there. Luckily, SiteGround allows you to transfer an old hosted WordPress blog to your new self-hosted website and if you're starting fresh, SiteGround will install WordPress for you. WordPress is a great platform for bloggers. I highly recommend it as it is very simple to use and extremely customizable.
