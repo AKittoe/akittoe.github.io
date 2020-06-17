@@ -33,9 +33,9 @@ WordPress has so many themes to offer. Free, premium and you can even create you
 
 #### The Essentials: Selecting the Best Plugins
 Plugins allow your site to become as flexible as you want it to be. From creating membership forms, commerce widgets, share to social media plugins, WordPress has a wide collection of widgets + other plugins. Some plugins I've used and enjoyed with WordPress are the following:
-* Akismet. Protects your blog from comment spam. Very useful if you have custom forms.
-* Jetpack. A WordPress plugin that shows the stats of your website.
-* WP Super Cache. Clears your cache, helps your content load faster.
+* **Akismet.** Protects your blog from comment spam. Very useful if you have custom forms.
+* **Jetpack.** A WordPress plugin that shows the stats of your website.
+* **WP Super Cache.** Clears your cache, helps your content load faster.
   
 ### Define Goals + Success
 What are the reasons you are starting a website? Some want to start a small online business, others wish to teach, share and learn from the world. Blogging can become a career. Lifehacker has an article speaking on making a living from blogging. Whatever your goals are, write them down and stick to it. You define your own success. What is your purpose? I researched for months before launching my website, because I wanted to be clear with myself about my goals and purpose. Sometimes a guide can help you along the way, but it is up to you to decide what it is you wish to accomplish.
