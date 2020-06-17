@@ -1,8 +1,8 @@
 ---
 layout: post
 title: New Moon in Scorpio
-description: How to disable Jekyll's default syntax highlighter
-summary: How to disable Jekyll's default syntax highlighter.
+description: 11-11 Portal during New Moon
+summary: 11-11 Portal during New Moon
 tags: [astro]
 ---
 
